@@ -27,3 +27,6 @@ I am a skilled Pharmacist and Statistical Programmer with expertise in the pharm
 - Proficient R programming language 🖥️
 
 Feel free to explore my repositories to see my work and contributions in the field. I am passionate about leveraging my skills to contribute meaningfully to projects within the pharmaceutical and clinical research sectors.
+
+
+
