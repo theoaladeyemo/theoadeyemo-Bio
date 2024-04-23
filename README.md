@@ -3,7 +3,8 @@
 ## About me
 # Professional Summary
 
-I am a skilled Pharmacist and Statistical Programmer with expertise in the pharmaceutical and clinical research industries. Proficient in SAS and R programming languages, my focus lies in CDISC SDTM mapping for effective data management.
+Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.
+Proficient in SAS and R programmer languages, Also open to learning new skills as the industry requires. 
 
 ## Skills
 
