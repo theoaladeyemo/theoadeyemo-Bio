@@ -2,9 +2,7 @@
 
 ## About me
 # Professional Summary
-
-Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.
-Proficient in SAS and R programmer languages, Also open to learning new skills as the industry requires. 
+Detail-oriented and highly analytical Statistical Programmer. Proven expertise in utilizing SAS programming to manage, analyze, and interpret complex datasets, ensuring accurate and reliable results. Certified SAS Specialist in Base Programming, with a deep understanding of advanced data manipulation techniques. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code. Currently pursuing SAS Advanced Programmer certification to further enhance my technical proficiency and contribute to cutting-edge research initiatives. Committed to maintaining the highest standards of data integrity, quality, and compliance with regulatory requirements.
 
 ## Skills
 
